@@ -17,7 +17,7 @@
 
     <swagger-annotations.version>1.6.0</swagger-annotations.version>
     <jackson-bom.version>2.10.2</jackson-bom.version>
-    <cxf.version>3.3.5</cxf.version>
+    <cxf.version>3.3.6</cxf.version>
     <name-machine.version>1.0.0</name-machine.version>
     <guava.version>28.1-jre</guava.version>
     <commons-lang.version>3.9</commons-lang.version>
